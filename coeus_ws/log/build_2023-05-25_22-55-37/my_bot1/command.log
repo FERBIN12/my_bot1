@@ -1,0 +1,4 @@
+Invoking command in '/home/kanja-koduki/coeus_ws/build/my_bot1': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/kanja-koduki/coeus_ws/build/my_bot1 -- -j8 -l8
+Invoked command in '/home/kanja-koduki/coeus_ws/build/my_bot1' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/kanja-koduki/coeus_ws/build/my_bot1 -- -j8 -l8
+Invoking command in '/home/kanja-koduki/coeus_ws/build/my_bot1': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/kanja-koduki/coeus_ws/build/my_bot1
+Invoked command in '/home/kanja-koduki/coeus_ws/build/my_bot1' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/kanja-koduki/coeus_ws/build/my_bot1

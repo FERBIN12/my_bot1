@@ -1,0 +1,63 @@
+[0.013s] Invoking command in '/home/kanja-koduki/coeus_ws/build/my_bot1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/kanja-koduki/coeus_ws/build/my_bot1 -- -j8 -l8
+[0.088s] Invoked command in '/home/kanja-koduki/coeus_ws/build/my_bot1' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/kanja-koduki/coeus_ws/build/my_bot1 -- -j8 -l8
+[0.121s] Invoking command in '/home/kanja-koduki/coeus_ws/build/my_bot1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/kanja-koduki/coeus_ws/build/my_bot1
+[0.128s] -- Install configuration: ""
+[0.128s] -- Execute custom install script
+[0.129s] -- Up-to-date symlink: /home/kanja-koduki/coeus_ws/install/my_bot1/share/my_bot1/config/drive.rviz
+[0.130s] -- Up-to-date symlink: /home/kanja-koduki/coeus_ws/install/my_bot1/share/my_bot1/config/empty.yaml
+[0.130s] -- Up-to-date symlink: /home/kanja-koduki/coeus_ws/install/my_bot1/share/my_bot1/config/my_controllers.yaml
+[0.133s] -- Up-to-date symlink: /home/kanja-koduki/coeus_ws/install/my_bot1/share/my_bot1/description/.git/COMMIT_EDITMSG
+[0.133s] -- Up-to-date symlink: /home/kanja-koduki/coeus_ws/install/my_bot1/share/my_bot1/description/.git/HEAD
+[0.133s] -- Up-to-date symlink: /home/kanja-koduki/coeus_ws/install/my_bot1/share/my_bot1/description/.git/config
+[0.133s] -- Up-to-date symlink: /home/kanja-koduki/coeus_ws/install/my_bot1/share/my_bot1/description/.git/description
+[0.134s] -- Up-to-date symlink: /home/kanja-koduki/coeus_ws/install/my_bot1/share/my_bot1/description/.git/hooks/applypatch-msg.sample
+[0.134s] -- Up-to-date symlink: /home/kanja-koduki/coeus_ws/install/my_bot1/share/my_bot1/description/.git/hooks/commit-msg.sample
+[0.134s] -- Up-to-date symlink: /home/kanja-koduki/coeus_ws/install/my_bot1/share/my_bot1/description/.git/hooks/fsmonitor-watchman.sample
+[0.134s] -- Up-to-date symlink: /home/kanja-koduki/coeus_ws/install/my_bot1/share/my_bot1/description/.git/hooks/post-update.sample
+[0.134s] -- Up-to-date symlink: /home/kanja-koduki/coeus_ws/install/my_bot1/share/my_bot1/description/.git/hooks/pre-applypatch.sample
+[0.134s] -- Up-to-date symlink: /home/kanja-koduki/coeus_ws/install/my_bot1/share/my_bot1/description/.git/hooks/pre-commit.sample
+[0.135s] -- Up-to-date symlink: /home/kanja-koduki/coeus_ws/install/my_bot1/share/my_bot1/description/.git/hooks/pre-merge-commit.sample
+[0.135s] -- Up-to-date symlink: /home/kanja-koduki/coeus_ws/install/my_bot1/share/my_bot1/description/.git/hooks/pre-push.sample
+[0.135s] -- Up-to-date symlink: /home/kanja-koduki/coeus_ws/install/my_bot1/share/my_bot1/description/.git/hooks/pre-rebase.sample
+[0.135s] -- Up-to-date symlink: /home/kanja-koduki/coeus_ws/install/my_bot1/share/my_bot1/description/.git/hooks/pre-receive.sample
+[0.135s] -- Up-to-date symlink: /home/kanja-koduki/coeus_ws/install/my_bot1/share/my_bot1/description/.git/hooks/prepare-commit-msg.sample
+[0.135s] -- Up-to-date symlink: /home/kanja-koduki/coeus_ws/install/my_bot1/share/my_bot1/description/.git/hooks/update.sample
+[0.136s] -- Up-to-date symlink: /home/kanja-koduki/coeus_ws/install/my_bot1/share/my_bot1/description/.git/index
+[0.136s] -- Up-to-date symlink: /home/kanja-koduki/coeus_ws/install/my_bot1/share/my_bot1/description/.git/info/exclude
+[0.136s] -- Up-to-date symlink: /home/kanja-koduki/coeus_ws/install/my_bot1/share/my_bot1/description/.git/logs/HEAD
+[0.136s] -- Up-to-date symlink: /home/kanja-koduki/coeus_ws/install/my_bot1/share/my_bot1/description/.git/logs/refs/heads/master
+[0.136s] -- Up-to-date symlink: /home/kanja-koduki/coeus_ws/install/my_bot1/share/my_bot1/description/.git/objects/03/1aca25174d211d6b7a78aca03e2a42d1927edf
+[0.137s] -- Up-to-date symlink: /home/kanja-koduki/coeus_ws/install/my_bot1/share/my_bot1/description/.git/objects/5c/f1cac4291b1f3b9cb90d207e75efd8451de467
+[0.137s] -- Up-to-date symlink: /home/kanja-koduki/coeus_ws/install/my_bot1/share/my_bot1/description/.git/objects/88/8a1d737795b75b33d3e14acd2883a8d72e928f
+[0.137s] -- Up-to-date symlink: /home/kanja-koduki/coeus_ws/install/my_bot1/share/my_bot1/description/.git/objects/b0/5287e5211c5f3f3450fe631ddbd5a5be8781ac
+[0.137s] -- Up-to-date symlink: /home/kanja-koduki/coeus_ws/install/my_bot1/share/my_bot1/description/.git/objects/d6/c69ec755b914136565cc76cd7220fa16feee3b
+[0.137s] -- Up-to-date symlink: /home/kanja-koduki/coeus_ws/install/my_bot1/share/my_bot1/description/.git/objects/dc/add452a97578724d479fa59510c5adbda1ccec
+[0.138s] -- Up-to-date symlink: /home/kanja-koduki/coeus_ws/install/my_bot1/share/my_bot1/description/.git/refs/heads/master
+[0.138s] -- Up-to-date symlink: /home/kanja-koduki/coeus_ws/install/my_bot1/share/my_bot1/description/camera.xacro
+[0.138s] -- Up-to-date symlink: /home/kanja-koduki/coeus_ws/install/my_bot1/share/my_bot1/description/depth_camera.xacro
+[0.139s] -- Up-to-date symlink: /home/kanja-koduki/coeus_ws/install/my_bot1/share/my_bot1/description/gazebo_control.xacro
+[0.139s] -- Up-to-date symlink: /home/kanja-koduki/coeus_ws/install/my_bot1/share/my_bot1/description/inertial_macros.xacro
+[0.139s] -- Up-to-date symlink: /home/kanja-koduki/coeus_ws/install/my_bot1/share/my_bot1/description/lidar.xacro
+[0.139s] -- Up-to-date symlink: /home/kanja-koduki/coeus_ws/install/my_bot1/share/my_bot1/description/robot.urdf.xacro
+[0.139s] -- Up-to-date symlink: /home/kanja-koduki/coeus_ws/install/my_bot1/share/my_bot1/description/robot_core.xacro
+[0.140s] -- Up-to-date symlink: /home/kanja-koduki/coeus_ws/install/my_bot1/share/my_bot1/description/ros2_control.xacro
+[0.140s] -- Up-to-date symlink: /home/kanja-koduki/coeus_ws/install/my_bot1/share/my_bot1/launch/launch_sim.launch.py
+[0.140s] -- Up-to-date symlink: /home/kanja-koduki/coeus_ws/install/my_bot1/share/my_bot1/launch/rsp.launch.py
+[0.141s] -- Up-to-date symlink: /home/kanja-koduki/coeus_ws/install/my_bot1/share/my_bot1/worlds/empty.world
+[0.141s] -- Up-to-date symlink: /home/kanja-koduki/coeus_ws/install/my_bot1/share/my_bot1/worlds/obstacles.world
+[0.141s] -- Up-to-date symlink: /home/kanja-koduki/coeus_ws/install/my_bot1/share/ament_index/resource_index/package_run_dependencies/my_bot1
+[0.142s] -- Up-to-date symlink: /home/kanja-koduki/coeus_ws/install/my_bot1/share/ament_index/resource_index/parent_prefix_path/my_bot1
+[0.142s] -- Up-to-date symlink: /home/kanja-koduki/coeus_ws/install/my_bot1/share/my_bot1/environment/ament_prefix_path.sh
+[0.142s] -- Up-to-date symlink: /home/kanja-koduki/coeus_ws/install/my_bot1/share/my_bot1/environment/ament_prefix_path.dsv
+[0.143s] -- Up-to-date symlink: /home/kanja-koduki/coeus_ws/install/my_bot1/share/my_bot1/environment/path.sh
+[0.143s] -- Up-to-date symlink: /home/kanja-koduki/coeus_ws/install/my_bot1/share/my_bot1/environment/path.dsv
+[0.143s] -- Up-to-date symlink: /home/kanja-koduki/coeus_ws/install/my_bot1/share/my_bot1/local_setup.bash
+[0.143s] -- Up-to-date symlink: /home/kanja-koduki/coeus_ws/install/my_bot1/share/my_bot1/local_setup.sh
+[0.144s] -- Up-to-date symlink: /home/kanja-koduki/coeus_ws/install/my_bot1/share/my_bot1/local_setup.zsh
+[0.144s] -- Up-to-date symlink: /home/kanja-koduki/coeus_ws/install/my_bot1/share/my_bot1/local_setup.dsv
+[0.144s] -- Symlinking: /home/kanja-koduki/coeus_ws/install/my_bot1/share/my_bot1/package.dsv
+[0.151s] -- Up-to-date symlink: /home/kanja-koduki/coeus_ws/install/my_bot1/share/ament_index/resource_index/packages/my_bot1
+[0.151s] -- Up-to-date symlink: /home/kanja-koduki/coeus_ws/install/my_bot1/share/my_bot1/cmake/my_bot1Config.cmake
+[0.152s] -- Up-to-date symlink: /home/kanja-koduki/coeus_ws/install/my_bot1/share/my_bot1/cmake/my_bot1Config-version.cmake
+[0.152s] -- Up-to-date symlink: /home/kanja-koduki/coeus_ws/install/my_bot1/share/my_bot1/package.xml
+[0.155s] Invoked command in '/home/kanja-koduki/coeus_ws/build/my_bot1' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/kanja-koduki/coeus_ws/build/my_bot1

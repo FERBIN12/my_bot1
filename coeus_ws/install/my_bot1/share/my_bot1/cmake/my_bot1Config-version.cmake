@@ -1,0 +1,1 @@
+/home/kanja-koduki/coeus_ws/build/my_bot1/ament_cmake_core/my_bot1Config-version.cmake

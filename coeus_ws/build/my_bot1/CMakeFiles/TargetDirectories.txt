@@ -1,0 +1,9 @@
+/home/kanja-koduki/coeus_ws/build/my_bot1/CMakeFiles/install/strip.dir
+/home/kanja-koduki/coeus_ws/build/my_bot1/CMakeFiles/install/local.dir
+/home/kanja-koduki/coeus_ws/build/my_bot1/CMakeFiles/install.dir
+/home/kanja-koduki/coeus_ws/build/my_bot1/CMakeFiles/list_install_components.dir
+/home/kanja-koduki/coeus_ws/build/my_bot1/CMakeFiles/rebuild_cache.dir
+/home/kanja-koduki/coeus_ws/build/my_bot1/CMakeFiles/edit_cache.dir
+/home/kanja-koduki/coeus_ws/build/my_bot1/CMakeFiles/test.dir
+/home/kanja-koduki/coeus_ws/build/my_bot1/CMakeFiles/my_bot1_uninstall.dir
+/home/kanja-koduki/coeus_ws/build/my_bot1/CMakeFiles/uninstall.dir

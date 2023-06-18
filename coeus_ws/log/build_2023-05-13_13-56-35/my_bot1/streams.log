@@ -1,0 +1,54 @@
+[0.012s] Invoking command in '/home/kanja-koduki/coeus_ws/build/my_bot1': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/kanja-koduki/coeus_ws/src/my_bot1 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/kanja-koduki/coeus_ws/install/my_bot1
+[0.209s] -- The C compiler identification is GNU 9.4.0
+[0.300s] -- The CXX compiler identification is GNU 9.4.0
+[0.306s] -- Check for working C compiler: /usr/bin/cc
+[0.365s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.366s] -- Detecting C compiler ABI info
+[0.423s] -- Detecting C compiler ABI info - done
+[0.431s] -- Detecting C compile features
+[0.431s] -- Detecting C compile features - done
+[0.434s] -- Check for working CXX compiler: /usr/bin/c++
+[0.491s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.491s] -- Detecting CXX compiler ABI info
+[0.558s] -- Detecting CXX compiler ABI info - done
+[0.565s] -- Detecting CXX compile features
+[0.566s] -- Detecting CXX compile features - done
+[0.571s] -- Found ament_cmake: 0.9.11 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.591s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[0.592s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.710s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.737s] -- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[0.797s] -- Added test 'copyright' to check source files copyright and LICENSE
+[0.802s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.803s] -- Added test 'lint_cmake' to check CMake code style
+[0.804s] -- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+[0.807s] -- Added test 'xmllint' to check XML markup files
+[0.808s] -- Configuring done
+[0.810s] -- Generating done
+[0.810s] -- Build files have been written to: /home/kanja-koduki/coeus_ws/build/my_bot1
+[0.815s] Invoked command in '/home/kanja-koduki/coeus_ws/build/my_bot1' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/kanja-koduki/coeus_ws/src/my_bot1 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/kanja-koduki/coeus_ws/install/my_bot1
+[0.816s] Invoking command in '/home/kanja-koduki/coeus_ws/build/my_bot1': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/kanja-koduki/coeus_ws/build/my_bot1 -- -j8 -l8
+[0.845s] Invoked command in '/home/kanja-koduki/coeus_ws/build/my_bot1' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/kanja-koduki/coeus_ws/build/my_bot1 -- -j8 -l8
+[0.873s] Invoking command in '/home/kanja-koduki/coeus_ws/build/my_bot1': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/kanja-koduki/coeus_ws/build/my_bot1
+[0.879s] -- Install configuration: ""
+[0.879s] -- Execute custom install script
+[0.879s] -- Symlinking: /home/kanja-koduki/coeus_ws/install/my_bot1/share/my_bot1/config/empty.yaml
+[0.886s] -- Symlinking: /home/kanja-koduki/coeus_ws/install/my_bot1/share/my_bot1/description/robot.urdf.xacro
+[0.893s] -- Symlinking: /home/kanja-koduki/coeus_ws/install/my_bot1/share/my_bot1/launch/rsp.launch.py
+[0.900s] -- Symlinking: /home/kanja-koduki/coeus_ws/install/my_bot1/share/my_bot1/worlds/empty.world
+[0.907s] -- Symlinking: /home/kanja-koduki/coeus_ws/install/my_bot1/share/ament_index/resource_index/package_run_dependencies/my_bot1
+[0.915s] -- Symlinking: /home/kanja-koduki/coeus_ws/install/my_bot1/share/ament_index/resource_index/parent_prefix_path/my_bot1
+[0.921s] -- Symlinking: /home/kanja-koduki/coeus_ws/install/my_bot1/share/my_bot1/environment/ament_prefix_path.sh
+[0.927s] -- Symlinking: /home/kanja-koduki/coeus_ws/install/my_bot1/share/my_bot1/environment/ament_prefix_path.dsv
+[0.933s] -- Symlinking: /home/kanja-koduki/coeus_ws/install/my_bot1/share/my_bot1/environment/path.sh
+[0.939s] -- Symlinking: /home/kanja-koduki/coeus_ws/install/my_bot1/share/my_bot1/environment/path.dsv
+[0.946s] -- Symlinking: /home/kanja-koduki/coeus_ws/install/my_bot1/share/my_bot1/local_setup.bash
+[0.952s] -- Symlinking: /home/kanja-koduki/coeus_ws/install/my_bot1/share/my_bot1/local_setup.sh
+[0.958s] -- Symlinking: /home/kanja-koduki/coeus_ws/install/my_bot1/share/my_bot1/local_setup.zsh
+[0.965s] -- Symlinking: /home/kanja-koduki/coeus_ws/install/my_bot1/share/my_bot1/local_setup.dsv
+[0.971s] -- Symlinking: /home/kanja-koduki/coeus_ws/install/my_bot1/share/my_bot1/package.dsv
+[0.977s] -- Symlinking: /home/kanja-koduki/coeus_ws/install/my_bot1/share/ament_index/resource_index/packages/my_bot1
+[0.983s] -- Symlinking: /home/kanja-koduki/coeus_ws/install/my_bot1/share/my_bot1/cmake/my_bot1Config.cmake
+[0.989s] -- Symlinking: /home/kanja-koduki/coeus_ws/install/my_bot1/share/my_bot1/cmake/my_bot1Config-version.cmake
+[0.995s] -- Symlinking: /home/kanja-koduki/coeus_ws/install/my_bot1/share/my_bot1/package.xml
+[1.003s] Invoked command in '/home/kanja-koduki/coeus_ws/build/my_bot1' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/kanja-koduki/coeus_ws/build/my_bot1
